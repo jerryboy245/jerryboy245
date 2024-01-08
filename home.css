@@ -1,0 +1,16 @@
+.large-screen-navigator{
+    display: flex;
+    z-index: 1000;
+}
+.large-screen-navigator{
+    list-style-type: none;
+    display: flex;
+    gap: 2rem;
+    justify-content: flex-end;
+    padding-right: 3rem;
+    padding-top: 3rem;
+}
+
+.large-screen-navigator-child a{
+    color: white;
+}
